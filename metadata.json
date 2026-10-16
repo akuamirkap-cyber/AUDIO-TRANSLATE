@@ -1,0 +1,11 @@
+{
+  "name": "ScreenLingo - Penerjemah Suara Layar (IG & YouTube)",
+  "description": "Aplikasi penerjemah suara layar dan video real-time untuk Instagram, YouTube, dan aplikasi lainnya dengan subtitle melayang (floating overlay).",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone",
+    "picture-in-picture",
+    "clipboard-write"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

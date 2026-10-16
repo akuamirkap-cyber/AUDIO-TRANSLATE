@@ -1,0 +1,18 @@
+{
+  "name": "ScreenLingo - Penerjemah Suara Layar",
+  "short_name": "ScreenLingo",
+  "description": "Penerjemah suara layar dan video real-time untuk Instagram, YouTube, dan lainnya dengan subtitle melayang.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
